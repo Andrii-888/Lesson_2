@@ -1,0 +1,39 @@
+img{
+    width: 300px;
+    height: 400px;
+}
+
+#google{
+    width: 20px;
+    height: 20px;
+}
+
+.block1 img{
+
+width: 300px;
+height: 300px;
+}
+
+.block1{
+background-color: goldenrod;
+margin: 70px 90px 80px 45px;
+padding: 40px;
+text-align: left;
+color: blue;
+}
+.block1 p{
+
+    color: aqua;
+}
+
+.block2 img{
+width: 450px;
+height: 450px;
+}
+.block2{
+
+    background-color: greenyellow;
+    text-align: right;
+    color: black;
+    padding: 100px;
+}
